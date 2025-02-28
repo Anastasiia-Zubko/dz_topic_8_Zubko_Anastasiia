@@ -1,0 +1,15 @@
+train: /Users/anastasiiazubko/Downloads/archive-2/train/images
+val: /Users/anastasiiazubko/Downloads/archive-2/valid/images
+test: /Users/anastasiiazubko/Downloads/archive-2/test/images
+nc: 10
+names: 
+- door
+- cabinetDoor
+- refrigeratorDoor
+- window
+- chair
+- table
+- cabinet
+- couch
+- openedDoor
+- pole
